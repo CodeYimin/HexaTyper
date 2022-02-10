@@ -43,7 +43,7 @@ export default function HexaTyper({
   }
 
   function renderCharacters(): ReactElement[] {
-    const offset = Math.max((currentRow - maxRows + 1) * charactersPerRow, 0);
+    const offset = Math.max((currentRow - 1) * charactersPerRow, 0);
 
     const elements: ReactElement[] = [];
     for (let i = offset; i < charactersPerRow * maxRows + offset; i++) {
