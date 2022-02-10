@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HexaTyper/static/css/main.e6c13ad2.css",
+    "main.js": "/HexaTyper/static/js/main.d85cbba7.js",
+    "index.html": "/HexaTyper/index.html",
+    "main.e6c13ad2.css.map": "/HexaTyper/static/css/main.e6c13ad2.css.map",
+    "main.d85cbba7.js.map": "/HexaTyper/static/js/main.d85cbba7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d85cbba7.js"
+  ]
+}
